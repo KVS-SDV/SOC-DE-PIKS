@@ -3,16 +3,9 @@
 ## Description
 C'est un Outil de Pentest pour le SOC de PIKS.
 
-## Getting Started
+## Pour Commencer
 
-Donner le droit de exécution pour "installer.sh : chmod 777 installer.sh
-Lancer le script Installer.sh : bash installer.sh
-
-
-
-## Getting Started
-
-### Installation + Exécution
+### Téléchargement
 
 * Cloner le répetoire Github
 ```
@@ -22,10 +15,12 @@ sudo git clone https://github.com/KVS-SDV/SOC-DE-PIKS.git
 ```
 cd SOC-DE-PIKS/
 ```
+### Droits
 * Donner le droit de exécution pour "installer.sh"
 ```
 sudo chmod 777 installer.sh
 ```
+### Exécution
 * Lancer le script Installer.sh
 ```
 sudo bash installer.sh
